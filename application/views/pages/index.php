@@ -111,7 +111,9 @@
                 <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/ -->
                 <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
               </div>
-<h1>sample.....</h1>
+                  <div class="newsec">
+                      <h1>TEST.......</h1>
+                  </div>
             </div>
           </div>
         </div>
